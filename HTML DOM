@@ -1,0 +1,24 @@
+What is HTML DOM - Document Object Model? Why we get StaleElement Exception in Selenium.
+
+• DOM is an API Interface provided by browser
+• When a web page is loaded, browser creates a DOM of the page.
+
+=============================================
+Learn What are the different Exceptions in Selenium:
+a. StaleElement Exception
+b. ElementNotFound Exception
+c. NoElementReference Exception
+
+=======================================
+
+With the document object model, JavaScript gets all the power it needs to create dynamic HTML: 
+
+• JavaScript can change all the HTML elements in the page
+• JavaScript can change all the HTML attributes in the page
+• JavaScript can change all the CSS styles in the page
+• JavaScript can remove existing HTML elements and attributes
+• JavaScript can add new HTML elements and attributes
+• JavaScript can react to all existing HTML events in the page
+• JavaScript can create new HTML events in the page
+
+================================================
