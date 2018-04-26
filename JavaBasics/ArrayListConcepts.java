@@ -38,7 +38,7 @@ public class ArrayListConcepts {
 		ar2.add("String");
 		
 		
-		ArrayList <Object> ar3 = new ArrayList<Object>();
+		//ArrayList <Object> ar3 = new ArrayList<Object>();
 		
 
 	}

@@ -26,7 +26,7 @@ public class LocatorConcepts {
 		driver.findElement(By.id("ppaFormSbtBtn")).click();
 
 		// By.linkText (highly recommened for links only)
-		// driver.findElement(By.linkText("Sign in")).click();
+		// driver.findElement(By.linkText("Sign in")).click(); 
 
 		// By.CSSSelector
 		driver.findElement(By.cssSelector("#email")).sendKeys("Tom.Hanks123updated@gmail.com");
